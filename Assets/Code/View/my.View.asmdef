@@ -1,0 +1,16 @@
+{
+    "name": "my.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b5a628e0f6e5ce24e96598e9c5d700f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
